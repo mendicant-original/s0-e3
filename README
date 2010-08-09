@@ -1,0 +1,46 @@
+-- RMU ZERO SESSION | PROBLEM 3
+-- Submissions due 12:00 UTC 8/15
+
+If in doubt about how to submit, see SUBMISSION_GUIDELINES file.
+
+For Exercise #3, You'll be writing and solving a programming exercise.  Yes, I
+am aware of how meta this is, and no, this won't be used as session exercises
+for the next several months :)
+
+Instead, this is a great way for you to take the time to clearly describe a
+problem, and then showcase what you think is a good solution to that problem.  I
+will then review the solutions and comment on each of them.
+
+When we are done with this exercise, we can give back to the RMU community at 
+large by releasing one problem per week to the RMU General mailing list, giving
+them something to work on while they wait for their session to begin.  
+
+While it isn't mandatory for you to donate your submission to this cause, it'll 
+count as community service if you do, which may come in handy later if volunteer
+positions open up within RMU.  Please let me know if you *DO NOT* want your 
+submission shared with the general RMU student population.
+
+This is another pretty open ended problem but here are some rough guidelines to
+get you started:
+
+* You should write up a plain text problem description that is suitable for
+  sending in an email.
+
+* You should include a file, solution.rb that solves the problem you described.
+
+* Optionally, you can write up additional materials on why you solved the
+  problem you did, and what the pros and cons of your approach were.
+
+* Your target audience are other RMU students (though not other Session 0
+  students because they'll be able to see your solutions right away).  Try to
+  make something that an intermediate programmer can solve within a few hours.
+
+* What you choose for a problem is totally up to you, but aim for something
+  closer to rubyproblems.com than RubyQuiz.  There should be a learning
+  opportunity present in your problem.
+
+Forming exercises for fun and educational purposes has been a key part of my
+personal learning experience.  If you haven't done it before, this exercise
+gives you a chance to see just how rewarding that can be.
+
+QUESTIONS?  Hit me up on the mailing list or IRC channel.
